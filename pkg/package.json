@@ -1,0 +1,15 @@
+{
+  "name": "mes",
+  "collaborators": [
+    "iranika <7370486+iranika@users.noreply.github.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "mes_bg.wasm",
+    "mes.js",
+    "mes.d.ts"
+  ],
+  "module": "mes.js",
+  "types": "mes.d.ts",
+  "sideEffects": false
+}
